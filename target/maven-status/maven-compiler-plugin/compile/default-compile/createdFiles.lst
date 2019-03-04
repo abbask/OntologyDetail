@@ -1,0 +1,11 @@
+edu/uga/cs/ontologydetail/model/MyTestSystem.class
+edu/uga/cs/ontologydetail/model/ExpectedValueGson.class
+edu/uga/cs/ontologydetail/model/ExpectedValue.class
+edu/uga/cs/ontologydetail/data/DataStoreConnection.class
+edu/uga/cs/ontologydetail/model/MyUnitTest.class
+edu/uga/cs/ontologydetail/presentation/OntologyDetails.class
+edu/uga/cs/ontologydetail/model/MyConcept.class
+edu/uga/cs/ontologydetail/model/SystemTestHistory.class
+edu/uga/cs/ontologydetail/model/UnitTestHistory.class
+edu/uga/cs/ontologydetail/model/ExpectedValuesGroup.class
+edu/uga/cs/ontologydetail/model/MyProperty.class
