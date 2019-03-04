@@ -1,1 +1,1 @@
-#Ontology Detail
+# OntologyDetail
